@@ -1,0 +1,9 @@
+CPU Time 3
+Finish Time 12
+
+
+
+TurnAround Time  11
+
+
+Weighted TurnAround Time  3.667

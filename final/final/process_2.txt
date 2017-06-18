@@ -1,0 +1,4 @@
+size 300
+arrival 1
+cpu 3
+priority 4
